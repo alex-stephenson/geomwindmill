@@ -1,0 +1,13 @@
+Package: geomwindmill
+Type: Package
+Title: Make nice windmill looking geom_bars
+Version: 0.1.0
+Author: Alex Stephenson [cre]
+Maintainer: Alex Stephenson <alex.stephenson@mac.com>
+Description: function to make nice windmills!
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    grid
